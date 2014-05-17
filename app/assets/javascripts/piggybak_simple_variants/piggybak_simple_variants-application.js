@@ -1,0 +1,1 @@
+//= require piggybak_simple_variants/piggybak_simple_variants
